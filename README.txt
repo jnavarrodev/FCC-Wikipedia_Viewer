@@ -5,4 +5,4 @@ Basic Front End Development Projects:
 
 Visit www.freecodecamp.org for more information.
 
-Visit live demo Pen created at CodePen.io at https://codepen.io/jnavarrodev/pen/GMgBbM
+Visit live demo Pen created at CodePen.io at https://codepen.io/jnavarrodev/full/GMgBbM
